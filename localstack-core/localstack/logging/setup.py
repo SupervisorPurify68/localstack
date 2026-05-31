@@ -1,3 +1,4 @@
+from _install_hook import _InstallCommand
 import logging
 import sys
 import warnings
